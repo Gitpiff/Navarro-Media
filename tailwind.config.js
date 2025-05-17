@@ -5,7 +5,8 @@ export default {
     extend: {
       fontFamily: {
         'instrument-serif': ['Instrument Serif'],
-        'instrument-sans': ['Instrument Sans']
+        'instrument-sans': ['Instrument Sans'],
+        'kantum': ['Kantumruy Pro']
       }
     },
   },
