@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="flex justify-around py-8 items-center font-kantum text-3xl font-bold text-white bg-black h-30">
+    <nav className="flex justify-around py-8 items-center font-kantum text-3xl font-bold text-white bg-black h-30 border-b-2">
       <div className="w-40">
         <img src="src/assets/logo.png" />
       </div>

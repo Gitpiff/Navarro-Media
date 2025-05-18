@@ -8,10 +8,10 @@ const App = () => {
     <>
       <div>
         <Navbar />
-        <div className="min-h-screen bg-gradient-to-b from-black to-gray-100">
+        {/* <div className="min-h-screen bg-gradient-to-b from-black to-[#666666]">
+        </div> */}
         <Home />
         <Footer />
-        </div>
       </div>
     </>
   );
